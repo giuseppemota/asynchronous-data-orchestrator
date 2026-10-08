@@ -1,0 +1,1 @@
+"""Asynchronous order processing worker."""
